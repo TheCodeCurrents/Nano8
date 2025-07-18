@@ -37,4 +37,4 @@ Each implementation directory contains:
 - Build/usage instructions
 - Any necessary tools or utilities
 
-> Note: Breadboard and Logisim implementations are currently the most active development targets.
+> Note: FPGA and Logisim implementations are currently the most active development targets. Breadboarding will started when I recieved some components. The Rust based Emulator will be done as a side effort and the PCB will be the finalized product.
