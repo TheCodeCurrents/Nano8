@@ -1,4 +1,4 @@
-# Nano8 Non-Commercial License
+# Nano8 Non-Commercial License v1.0
 
 **Copyright (c) 2025 Jakob Flocke**
 
