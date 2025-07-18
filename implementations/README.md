@@ -6,7 +6,7 @@ This directory contains various implementations of the Nano8 computer system. Ea
 
 ### 1. Breadboard (Development)
 - **Location**: `breadboard/`
-- **Status**: Development
+- **Status**: Starting in about 2-3 weeks
 - **Description**: Physical prototype using 74-series logic chips on breadboards. Primary development platform for testing the Nano8 architecture.
 
 ### 2. Logisim Evolution Simulation
@@ -26,7 +26,7 @@ This directory contains various implementations of the Nano8 computer system. Ea
 
 ### 5. Software Emulator
 - **Location**: `emulator/`
-- **Status**: Planned
+- **Status**: Side effort
 - **Description**: Rust-based emulator for software development and testing.
 
 ## Implementation Structure
