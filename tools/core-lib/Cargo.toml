@@ -1,0 +1,9 @@
+[package]
+name = "nano8-core"
+version = "0.1.0"
+edition = "2024"
+authors = ["Jakob Flocke <jflocke@proton.me>"]
+description = "Core library for the Nano8 computer"
+
+[dependencies]
+bitflags = "*"
