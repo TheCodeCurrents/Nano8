@@ -23,23 +23,27 @@ Subject to the terms below, the original author (Jakob Flocke) grants you a free
 
 - Personal and educational use.
 - Forking and modifying the Licensed Materials for non-commercial personal projects.
-- Sharing modifications and improvements under similar non-commercial license terms.
+- Sharing modifications and improvements under equivalent non-commercial license terms.
 
 ---
 
 ## 3. Restrictions
 
-- **Commercial use is strictly prohibited**, including (but not limited to) selling, sublicensing, or distributing modified or unmodified copies of the Licensed Materials for financial gain.
+- **Commercial use is strictly prohibited**, including (but not limited to) selling, sublicensing, or distributing modified or unmodified copies of the Licensed Materials for financial gain **without express written permission from the author**.
+- Commercial use may be permitted on a case-by-case basis, but only with the **author’s prior written consent**, which:
+  - May be revoked at any time.
+  - Will take effect no sooner than **14 calendar days** after written notice of revocation is issued.
 - Redistributions, whether modified or unmodified, must:
-  - Include this license in full.
-  - Retain clear credit to the original author, Jakob Flocke.
+  - Include this license in its entirety.
+  - Retain clear and visible credit to the original author, Jakob Flocke.
+
 
 ---
 
 ## 4. Warranty & Liability
 
 - The Licensed Materials are provided **“as-is”**, without warranty of any kind, express or implied.
-- The author is not responsible for any damages or losses resulting from the use of the Licensed Materials.
+- The author shall not be held liable for any damages or losses arising from the use of the Licensed Materials.
 
 ---
 
