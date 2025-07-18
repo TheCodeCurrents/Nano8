@@ -7,20 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Developed the architecture and documented it in "docs/User Manual.docx"
-- Created Nano8v1.circ
-- Implemented Registers and basic manual Control for Nano8v1 simulation
-
-## [0.0.2] - 2025-04-06
-
-### Added
-
-- Folder structure
-- Added README.md for every folder, describing it's basic purpose
-- Added an intruduction and the specs to the README
-
-## [0.0.1] - 2025-04-02
-
 ### Added
 
 - Added README.md, CHANGELOG.md and LICENSE.md
+- created folder structure and added project and folder readme's
